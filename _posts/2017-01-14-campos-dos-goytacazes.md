@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2017-01-14-campos dos goytacazes"
+title: "2017-01-14 campos dos goytacazes"
 date: 2017-01-14
 comments: true
 tag: campos-dos-goytacazes
