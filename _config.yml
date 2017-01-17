@@ -30,7 +30,7 @@ isso: ''
 disqus: 'facegroups'
 
 permalink: /:year/:month/:title
-paginate: 5
+paginate: 1
 
 highlighter: rouge
 markdown: kramdown
